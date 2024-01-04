@@ -6,11 +6,15 @@ frappe.ui.form.on("QC Checklist", {
         // check activities duplicate
         frm.check_activities_duplicate = function(frm, row){
             frm.doc.activities.forEach(item=>{
-                if(row.activity==item.activity){
-                    // clear field
-                    row.activity = '';
-                    frm.refresh_field('activities');
-                    frappe.throw(__(`${row.activity} already exists in row ${item.idx}`));
+                if(row.activity=='' || row.idx==item.idx){
+                    // pass
+                } else {
+                    if(row.activity==item.activity){
+                        // clear field
+                        row.activity = '';
+                        frappe.throw(__(`<b>${item.activity}</b> already exists at row ${item.idx}`))
+                        frm.refresh_field('activities');
+                    }
                 }
             })
         }
