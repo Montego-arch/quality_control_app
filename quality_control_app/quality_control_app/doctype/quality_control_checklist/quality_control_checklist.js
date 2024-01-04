@@ -1,7 +1,7 @@
 // Copyright (c) 2024, Montego-arch and contributors
 // For license information, please see license.txt
 
-frappe.ui.form.on("QC Checklist", {
+frappe.ui.form.on("Quality Control Checklist", {
     setup: function(frm){
         // check activities duplicate
         frm.check_activities_duplicate = function(frm, row){
