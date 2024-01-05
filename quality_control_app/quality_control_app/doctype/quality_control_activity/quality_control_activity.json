@@ -16,7 +16,8 @@
    "fieldtype": "Select",
    "in_list_view": 1,
    "label": "Yes/No",
-   "options": "\nYes\nNo"
+   "options": "\nYes\nNo",
+   "reqd": 1
   },
   {
    "fieldname": "corrective_action",
@@ -36,7 +37,7 @@
  "index_web_pages_for_search": 1,
  "istable": 1,
  "links": [],
- "modified": "2024-01-04 08:29:20.427105",
+ "modified": "2024-01-05 08:46:42.269666",
  "modified_by": "Administrator",
  "module": "Quality Control App",
  "name": "Quality Control Activity",
