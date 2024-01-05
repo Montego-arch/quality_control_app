@@ -19,7 +19,7 @@ frappe.ui.form.on("Quality Control Checklist", {
             })
         }
     },
-    refresh: function(frrm){
+    refresh: function(frm){
 
     },
 });
