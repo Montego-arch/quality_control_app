@@ -12,8 +12,6 @@
   "section_break_sute",
   "activities",
   "section_break_croz",
-  "officer_in_charge",
-  "column_break_oxqc",
   "quality_control_manager"
  ],
  "fields": [
@@ -54,15 +52,6 @@
    "fieldtype": "Section Break"
   },
   {
-   "fieldname": "officer_in_charge",
-   "fieldtype": "Signature",
-   "label": "officer In Charge"
-  },
-  {
-   "fieldname": "column_break_oxqc",
-   "fieldtype": "Column Break"
-  },
-  {
    "fieldname": "quality_control_manager",
    "fieldtype": "Signature",
    "label": "Quality Control Manager"
@@ -70,7 +59,7 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2024-01-04 14:48:12.361880",
+ "modified": "2024-01-05 14:00:13.107068",
  "modified_by": "Administrator",
  "module": "Quality Control App",
  "name": "Quality Control Checklist",
