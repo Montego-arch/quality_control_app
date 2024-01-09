@@ -1,0 +1,1058 @@
+[
+ {
+  "activity_detail": "Dirt and dust wiped off the outer surface of the centrifuge",
+  "checklist_name": "Centrifuge Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-08 17:30:13.148373",
+  "name": "Dirt and dust wiped off the outer surface of the centrifuge"
+ },
+ {
+  "activity_detail": "Electric connector well fixed to the switch",
+  "checklist_name": "Centrifuge Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-08 17:30:32.816648",
+  "name": "Electric connector well fixed to the switch"
+ },
+ {
+  "activity_detail": "Centrifuge power on/off switch working effectively",
+  "checklist_name": "Centrifuge Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-08 17:31:08.873187",
+  "name": "Centrifuge power on/off switch working effectively"
+ },
+ {
+  "activity_detail": "Timer and RPM knobs clean and working effectively",
+  "checklist_name": "Centrifuge Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-08 17:31:29.545934",
+  "name": "Timer and RPM knobs clean and working effectively"
+ },
+ {
+  "activity_detail": "Tubes appropriately fixed and complete",
+  "checklist_name": "Centrifuge Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-08 17:31:47.419590",
+  "name": "Tubes appropriately fixed and complete"
+ },
+ {
+  "activity_detail": "Dirt and dust wiped off the outer surface of the colony counter",
+  "checklist_name": "Colony counter Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-08 17:32:40.794958",
+  "name": "Dirt and dust wiped off the outer surface of the colony counter"
+ },
+ {
+  "activity_detail": "Observation screen free of dirt and dust",
+  "checklist_name": "Colony counter Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-08 17:32:58.475899",
+  "name": "Observation screen free of dirt and dust"
+ },
+ {
+  "activity_detail": "Colony counter power on/off switch working effectively",
+  "checklist_name": "Colony counter Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-08 17:33:28.770167",
+  "name": "Colony counter power on/off switch working effectively"
+ },
+ {
+  "activity_detail": "White light displaying perfectly",
+  "checklist_name": "Colony counter Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-08 17:33:49.676130",
+  "name": "White light displaying perfectly"
+ },
+ {
+  "activity_detail": "Colony counter pen properly fixed and working effectively",
+  "checklist_name": "Colony counter Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-08 17:34:06.218440",
+  "name": "Colony counter pen properly fixed and working effectively"
+ },
+ {
+  "activity_detail": "Plug clean and in good condition",
+  "checklist_name": "Colony counter Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-08 17:34:26.234713",
+  "name": "Plug clean and in good condition"
+ },
+ {
+  "activity_detail": "Dirt and dust wiped off the outer surface",
+  "checklist_name": "Digital Thermometer Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:25:20.431589",
+  "name": "Dirt and dust wiped off the outer surface"
+ },
+ {
+  "activity_detail": "Digital thermometer Indicator buttons in good working condition",
+  "checklist_name": "Digital Thermometer Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:26:12.604460",
+  "name": "Digital thermometer Indicator buttons in good working condition"
+ },
+ {
+  "activity_detail": "Digital thermometer LCD display screen clean and displaying perfectly",
+  "checklist_name": "Digital Thermometer Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:26:37.838059",
+  "name": "Digital thermometer LCD display screen clean and displaying perfectly"
+ },
+ {
+  "activity_detail": "Batteries properly fixed and working effectively",
+  "checklist_name": "Digital Thermometer Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:26:59.367945",
+  "name": "Batteries properly fixed and working effectively"
+ },
+ {
+  "activity_detail": "Temperature probe clean and working effectively",
+  "checklist_name": "Digital Thermometer Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:27:17.829188",
+  "name": "Temperature probe clean and working effectively"
+ },
+ {
+  "activity_detail": "Dirt and dust wiped off the outer surface of the incubator",
+  "checklist_name": "Incubator Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:28:11.546902",
+  "name": "Dirt and dust wiped off the outer surface of the incubator"
+ },
+ {
+  "activity_detail": "Incubator plug clean and in good condition",
+  "checklist_name": "Incubator Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:28:31.097404",
+  "name": "Incubator plug clean and in good condition"
+ },
+ {
+  "activity_detail": "Incubator power on/off switch working effectively",
+  "checklist_name": "Incubator Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:28:56.560161",
+  "name": "Incubator power on/off switch working effectively"
+ },
+ {
+  "activity_detail": "Power and heat indicator working effectively",
+  "checklist_name": "Incubator Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:29:13.465211",
+  "name": "Power and heat indicator working effectively"
+ },
+ {
+  "activity_detail": "Temperature control working effectively",
+  "checklist_name": "Incubator Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:29:31.433517",
+  "name": "Temperature control working effectively"
+ },
+ {
+  "activity_detail": "Thermometer clean and in good working condition",
+  "checklist_name": "Incubator Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:29:50.926948",
+  "name": "Thermometer clean and in good working condition"
+ },
+ {
+  "activity_detail": "Incubator door free of dirt",
+  "checklist_name": "Incubator Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:30:07.356584",
+  "name": "Incubator door free of dirt"
+ },
+ {
+  "activity_detail": "Door handle and lock working effectively",
+  "checklist_name": "Incubator Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:30:29.538235",
+  "name": "Door handle and lock working effectively"
+ },
+ {
+  "activity_detail": "Observation  window clean and free of dirt and dust",
+  "checklist_name": "Incubator Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:30:48.006385",
+  "name": "Observation  window clean and free of dirt and dust"
+ },
+ {
+  "activity_detail": "Inner wall free of dirt",
+  "checklist_name": "Incubator Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:31:13.762985",
+  "name": "Inner wall free of dirt"
+ },
+ {
+  "activity_detail": "Inner shelves free of dirt",
+  "checklist_name": "Incubator Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:31:30.780641",
+  "name": "Inner shelves free of dirt"
+ },
+ {
+  "activity_detail": "Dirt and dust wiped off the outer surface of the laminar air flow equipment",
+  "checklist_name": "Laminar Air Flow Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:32:43.188479",
+  "name": "Dirt and dust wiped off the outer surface of the laminar air flow equipment"
+ },
+ {
+  "activity_detail": "Laminar air flow equipment plug clean and in good condition",
+  "checklist_name": "Laminar Air Flow Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:33:20.124996",
+  "name": "Laminar air flow equipment plug clean and in good condition"
+ },
+ {
+  "activity_detail": "Laminar air flow equipment power on/off switch working effectively",
+  "checklist_name": "Laminar Air Flow Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:33:51.357546",
+  "name": "Laminar air flow equipment power on/off switch working effectively"
+ },
+ {
+  "activity_detail": "Dirt and dust wiped off the inner part of the laminar air flow",
+  "checklist_name": "Laminar Air Flow Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:34:10.806138",
+  "name": "Dirt and dust wiped off the inner part of the laminar air flow"
+ },
+ {
+  "activity_detail": "Inner walls of the laminar air flow free of dirt",
+  "checklist_name": "Laminar Air Flow Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:35:38.220893",
+  "name": "Inner walls of the laminar air flow free of dirt"
+ },
+ {
+  "activity_detail": "Dirt and dust wiped off the outer surface of the light meter",
+  "checklist_name": "Light meter Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:36:41.308858",
+  "name": "Dirt and dust wiped off the outer surface of the light meter"
+ },
+ {
+  "activity_detail": "Photo detector clean, effective and proper fixed to the light meter",
+  "checklist_name": "Light meter Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:36:59.546308",
+  "name": "Photo detector clean, effective and proper fixed to the light meter"
+ },
+ {
+  "activity_detail": "Light meter indicator buttons in good working condition",
+  "checklist_name": "Light meter Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:37:40.644310",
+  "name": "Light meter indicator buttons in good working condition"
+ },
+ {
+  "activity_detail": "Light meter LCD display screen clean and displaying perfectly",
+  "checklist_name": "Light meter Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:38:17.871546",
+  "name": "Light meter LCD display screen clean and displaying perfectly"
+ },
+ {
+  "activity_detail": "Batteries properly fixed and working perfectly",
+  "checklist_name": "Light meter Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:38:39.939200",
+  "name": "Batteries properly fixed and working perfectly"
+ },
+ {
+  "activity_detail": "Light meter case clean and in good condition",
+  "checklist_name": "Light meter Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:38:55.694320",
+  "name": "Light meter case clean and in good condition"
+ },
+ {
+  "activity_detail": "Dirt and dust wiped off the outer surface of the Lumitester",
+  "checklist_name": "Lumitester Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:40:10.052477",
+  "name": "Dirt and dust wiped off the outer surface of the Lumitester"
+ },
+ {
+  "activity_detail": "Cable clean and working effectively",
+  "checklist_name": "Lumitester Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:40:29.458462",
+  "name": "Cable clean and working effectively"
+ },
+ {
+  "activity_detail": "Lumitester indicator buttons in good working condition",
+  "checklist_name": "Lumitester Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:41:07.747501",
+  "name": "Lumitester indicator buttons in good working condition"
+ },
+ {
+  "activity_detail": "Lumitester LCD display screen clean and displaying perfectly",
+  "checklist_name": "Lumitester Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:41:28.491782",
+  "name": "Lumitester LCD display screen clean and displaying perfectly"
+ },
+ {
+  "activity_detail": "Lumitester batteries properly fixed and working effectively",
+  "checklist_name": "Lumitester Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:42:33.649311",
+  "name": "Lumitester batteries properly fixed and working effectively"
+ },
+ {
+  "activity_detail": "Lumitester case clean and in good condition",
+  "checklist_name": "Lumitester Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:42:51.629248",
+  "name": "Lumitester case clean and in good condition"
+ },
+ {
+  "activity_detail": "Dirt and dust wiped off the outer surface of the magnetic hot plate",
+  "checklist_name": "Magnetic Hot Plate Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:43:34.615728",
+  "name": "Dirt and dust wiped off the outer surface of the magnetic hot plate"
+ },
+ {
+  "activity_detail": "Magnetic hot plate clean and in good working condition",
+  "checklist_name": "Magnetic Hot Plate Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:43:52.172348",
+  "name": "Magnetic hot plate clean and in good working condition"
+ },
+ {
+  "activity_detail": "Magnetic hot plate power on/off switch working effectively",
+  "checklist_name": "Magnetic Hot Plate Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:44:21.838001",
+  "name": "Magnetic hot plate power on/off switch working effectively"
+ },
+ {
+  "activity_detail": "Power and heat knobs working effectively",
+  "checklist_name": "Magnetic Hot Plate Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:44:40.294177",
+  "name": "Power and heat knobs working effectively"
+ },
+ {
+  "activity_detail": "Speed control working effectively",
+  "checklist_name": "Magnetic Hot Plate Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:45:30.413311",
+  "name": "Speed control working effectively"
+ },
+ {
+  "activity_detail": "Dirt and dust wiped off the outer surface of the moisture analyzer",
+  "checklist_name": "Moisture Analyzer Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:46:27.513265",
+  "name": "Dirt and dust wiped off the outer surface of the moisture analyzer"
+ },
+ {
+  "activity_detail": "Moisture Analyzer plug clean and in good condition",
+  "checklist_name": "Moisture Analyzer Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:47:02.497487",
+  "name": "Moisture Analyzer plug clean and in good condition"
+ },
+ {
+  "activity_detail": "Analyzer cover free of dirt",
+  "checklist_name": "Moisture Analyzer Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:47:59.648114",
+  "name": "Analyzer cover free of dirt"
+ },
+ {
+  "activity_detail": "Pan handler free of dirt",
+  "checklist_name": "Moisture Analyzer Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:48:21.424839",
+  "name": "Pan handler free of dirt"
+ },
+ {
+  "activity_detail": "Key pads working effectively and correct display on screen",
+  "checklist_name": "Moisture Analyzer Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:49:09.521535",
+  "name": "Key pads working effectively and correct display on screen"
+ },
+ {
+  "activity_detail": "Leveling bubble vial is at the center",
+  "checklist_name": "Moisture Analyzer Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:51:52.055573",
+  "name": "Leveling bubble vial is at the center"
+ },
+ {
+  "activity_detail": "Dirt and dust wiped off the outer surface of the oven",
+  "checklist_name": "Oven Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:53:11.649916",
+  "name": "Dirt and dust wiped off the outer surface of the oven"
+ },
+ {
+  "activity_detail": "Oven plug clean and in good condition",
+  "checklist_name": "Oven Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:53:28.133547",
+  "name": "Oven plug clean and in good condition"
+ },
+ {
+  "activity_detail": "Oven power on/off switch working effectively",
+  "checklist_name": "Oven Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:53:47.514933",
+  "name": "Oven power on/off switch working effectively"
+ },
+ {
+  "activity_detail": "Oven power and heat indicator working effectively",
+  "checklist_name": "Oven Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:54:15.408386",
+  "name": "Oven power and heat indicator working effectively"
+ },
+ {
+  "activity_detail": "Oven LCD display screen clean and displaying perfectly",
+  "checklist_name": "Oven Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:54:42.854332",
+  "name": "Oven LCD display screen clean and displaying perfectly"
+ },
+ {
+  "activity_detail": "Oven door free of dirt",
+  "checklist_name": "Oven Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:55:12.946208",
+  "name": "Oven door free of dirt"
+ },
+ {
+  "activity_detail": "Oven door handle and lock working effectively",
+  "checklist_name": "Oven Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:55:38.760740",
+  "name": "Oven door handle and lock working effectively"
+ },
+ {
+  "activity_detail": "Oven observation window clean and free of dirt and dust",
+  "checklist_name": "Oven Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:56:04.476689",
+  "name": "Oven observation window clean and free of dirt and dust"
+ },
+ {
+  "activity_detail": "Inner walls of oven free of dirt",
+  "checklist_name": "Oven Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:56:54.235778",
+  "name": "Inner walls of oven free of dirt"
+ },
+ {
+  "activity_detail": "Oven inner shelves free of dirt",
+  "checklist_name": "Oven Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:57:21.065652",
+  "name": "Oven inner shelves free of dirt"
+ },
+ {
+  "activity_detail": "PH meter closed",
+  "checklist_name": "pH Meter Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:58:07.162126",
+  "name": "PH meter closed"
+ },
+ {
+  "activity_detail": "Buffer solution effective and clear",
+  "checklist_name": "pH Meter Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:58:24.146996",
+  "name": "Buffer solution effective and clear"
+ },
+ {
+  "activity_detail": "PH meter in a suitable position",
+  "checklist_name": "pH Meter Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:58:41.180660",
+  "name": "PH meter in a suitable position"
+ },
+ {
+  "activity_detail": "PH meter UPS connected to electricity and charging",
+  "checklist_name": "pH Meter Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:59:04.168181",
+  "name": "PH meter UPS connected to electricity and charging"
+ },
+ {
+  "activity_detail": "PH meter readings is at 7.00±2",
+  "checklist_name": "pH Meter Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:59:19.872092",
+  "name": "PH meter readings is at 7.00±2"
+ },
+ {
+  "activity_detail": "Temperature knob at solution temperature[buffer]",
+  "checklist_name": "pH Meter Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:59:36.293246",
+  "name": "Temperature knob at solution temperature[buffer]"
+ },
+ {
+  "activity_detail": "Electrode in the buffer solution; not in distilled water",
+  "checklist_name": "pH Meter Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 09:59:56.617255",
+  "name": "Electrode in the buffer solution; not in distilled water"
+ },
+ {
+  "activity_detail": "Buffer solution available in the electrode bottle",
+  "checklist_name": "pH Meter Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 10:00:12.000015",
+  "name": "Buffer solution available in the electrode bottle"
+ },
+ {
+  "activity_detail": "PH meter in good working condition",
+  "checklist_name": "pH Meter Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 10:00:32.222446",
+  "name": "PH meter in good working condition"
+ },
+ {
+  "activity_detail": "Electrode cleaned and intact; not broken or cracked",
+  "checklist_name": "pH Meter Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 10:00:46.847016",
+  "name": "Electrode cleaned and intact; not broken or cracked"
+ },
+ {
+  "activity_detail": "Refractometer is well placed in the storage box",
+  "checklist_name": "Refractometer Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 10:01:30.544636",
+  "name": "Refractometer is well placed in the storage box"
+ },
+ {
+  "activity_detail": "Prism wipe cloth cleaned and placed in the storage box",
+  "checklist_name": "Refractometer Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 10:01:45.497697",
+  "name": "Prism wipe cloth cleaned and placed in the storage box"
+ },
+ {
+  "activity_detail": "Prism cleaned and not cracked",
+  "checklist_name": "Refractometer Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 10:02:00.635165",
+  "name": "Prism cleaned and not cracked"
+ },
+ {
+  "activity_detail": "Reading displaying blue colour before usage",
+  "checklist_name": "Refractometer Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 10:02:24.840061",
+  "name": "Reading displaying blue colour before usage"
+ },
+ {
+  "activity_detail": "Refractometer in good working condition",
+  "checklist_name": "Refractometer Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 10:02:39.360418",
+  "name": "Refractometer in good working condition"
+ },
+ {
+  "activity_detail": "Dirt and dust wiped off the outer surface of the refrigerator",
+  "checklist_name": "Refrigerator Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 10:03:20.192167",
+  "name": "Dirt and dust wiped off the outer surface of the refrigerator"
+ },
+ {
+  "activity_detail": "Refrigerator plug clean and in good condition",
+  "checklist_name": "Refrigerator Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 10:03:39.403084",
+  "name": "Refrigerator plug clean and in good condition"
+ },
+ {
+  "activity_detail": "Refrigerator power on/off switch working effectively",
+  "checklist_name": "Refrigerator Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 10:03:58.426085",
+  "name": "Refrigerator power on/off switch working effectively"
+ },
+ {
+  "activity_detail": "Refrigerator door free of dirt",
+  "checklist_name": "Refrigerator Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 10:04:13.511372",
+  "name": "Refrigerator door free of dirt"
+ },
+ {
+  "activity_detail": "Refrigerator door handle and lock working effectively",
+  "checklist_name": "Refrigerator Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 10:04:41.521350",
+  "name": "Refrigerator door handle and lock working effectively"
+ },
+ {
+  "activity_detail": "Inner walls free of dirt",
+  "checklist_name": "Refrigerator Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 10:05:03.796742",
+  "name": "Inner walls free of dirt"
+ },
+ {
+  "activity_detail": "Inner shelves of refrigerator free of dirt",
+  "checklist_name": "Refrigerator Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 10:05:30.529165",
+  "name": "Inner shelves of refrigerator free of dirt"
+ },
+ {
+  "activity_detail": "Dirt and dust wiped off the outer surface of the water bath",
+  "checklist_name": "Water bath Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 10:09:36.149636",
+  "name": "Dirt and dust wiped off the outer surface of the water bath"
+ },
+ {
+  "activity_detail": "Water bath plug clean and in good condition",
+  "checklist_name": "Water bath Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 10:09:53.252371",
+  "name": "Water bath plug clean and in good condition"
+ },
+ {
+  "activity_detail": "Water bath power on/off switch working effectively",
+  "checklist_name": "Water bath Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 10:10:17.707539",
+  "name": "Water bath power on/off switch working effectively"
+ },
+ {
+  "activity_detail": "Water bath power heat indicator working effectively",
+  "checklist_name": "Water bath Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 10:10:38.705919",
+  "name": "Water bath power heat indicator working effectively"
+ },
+ {
+  "activity_detail": "Water bath temperature control working effectively",
+  "checklist_name": "Water bath Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 10:11:16.432836",
+  "name": "Water bath temperature control working effectively"
+ },
+ {
+  "activity_detail": "Water bath LCD screen display working perfectly",
+  "checklist_name": "Water bath Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 10:11:33.529608",
+  "name": "Water bath LCD screen display working perfectly"
+ },
+ {
+  "activity_detail": "Heater working effectively",
+  "checklist_name": "Water bath Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 10:11:49.522663",
+  "name": "Heater working effectively"
+ },
+ {
+  "activity_detail": "Cover sets complete and free of dirt",
+  "checklist_name": "Water bath Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 10:12:10.929373",
+  "name": "Cover sets complete and free of dirt"
+ },
+ {
+  "activity_detail": "Clean and free space around distiller",
+  "checklist_name": "Water distiller Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 10:12:51.471787",
+  "name": "Clean and free space around distiller"
+ },
+ {
+  "activity_detail": "Water distiller electric connector well fixed to the switch",
+  "checklist_name": "Water distiller Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 10:13:23.425548",
+  "name": "Water distiller electric connector well fixed to the switch"
+ },
+ {
+  "activity_detail": "Clean container available for the distilled water",
+  "checklist_name": "Water distiller Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 10:13:37.218942",
+  "name": "Clean container available for the distilled water"
+ },
+ {
+  "activity_detail": "All pipes appropriately fixed",
+  "checklist_name": "Water distiller Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 10:13:54.220153",
+  "name": "All pipes appropriately fixed"
+ },
+ {
+  "activity_detail": "Indicator button displaying a red light when switched",
+  "checklist_name": "Water distiller Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 10:14:07.902182",
+  "name": "Indicator button displaying a red light when switched"
+ },
+ {
+  "activity_detail": "Hydraulic connector supplying water to the vapour generator tank",
+  "checklist_name": "Water distiller Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 10:14:24.981175",
+  "name": "Hydraulic connector supplying water to the vapour generator tank"
+ },
+ {
+  "activity_detail": "Control valve tightly fixed",
+  "checklist_name": "Water distiller Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 10:14:40.332627",
+  "name": "Control valve tightly fixed"
+ },
+ {
+  "activity_detail": "Water level above immersion resistor",
+  "checklist_name": "Water distiller Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 10:14:54.531598",
+  "name": "Water level above immersion resistor"
+ },
+ {
+  "activity_detail": "Immersion resistor generating heat",
+  "checklist_name": "Water distiller Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 10:15:15.547109",
+  "name": "Immersion resistor generating heat"
+ },
+ {
+  "activity_detail": "Refrigeration water outlet sending water into the condenser",
+  "checklist_name": "Water distiller Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 10:15:31.757046",
+  "name": "Refrigeration water outlet sending water into the condenser"
+ },
+ {
+  "activity_detail": "Does the drainage installation have leaks?",
+  "checklist_name": "Water distiller Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 10:15:47.289564",
+  "name": "Does the drainage installation have leaks?"
+ },
+ {
+  "activity_detail": "Is there sufficient water in the chamber?",
+  "checklist_name": "Autoclave Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-08 17:01:34.345700",
+  "name": "Is there sufficient water in the chamber?"
+ },
+ {
+  "activity_detail": "Are there any leakages?",
+  "checklist_name": "Autoclave Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-08 17:02:00.169828",
+  "name": "Are there any leakages?"
+ },
+ {
+  "activity_detail": "Are the valves working perfectly?",
+  "checklist_name": "Autoclave Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-08 17:02:19.498148",
+  "name": "Are the valves working perfectly?"
+ },
+ {
+  "activity_detail": "The lid nuts fit properly",
+  "checklist_name": "Autoclave Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-08 17:02:44.275561",
+  "name": "The lid nuts fit properly"
+ },
+ {
+  "activity_detail": "The rubber around the autoclave is visible and well fitted",
+  "checklist_name": "Autoclave Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-08 17:03:10.772994",
+  "name": "The rubber around the autoclave is visible and well fitted"
+ },
+ {
+  "activity_detail": "Strainer status is satisfactory",
+  "checklist_name": "Autoclave Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-08 17:03:31.620189",
+  "name": "Strainer status is satisfactory"
+ },
+ {
+  "activity_detail": "The pressure gauge and the indicator are functioning properly",
+  "checklist_name": "Autoclave Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-08 17:03:55.311151",
+  "name": "The pressure gauge and the indicator are functioning properly"
+ },
+ {
+  "activity_detail": "The green switch light is functioning",
+  "checklist_name": "Autoclave Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-08 17:04:17.641191",
+  "name": "The green switch light is functioning"
+ },
+ {
+  "activity_detail": "A white long cylindrical rubber enters into the pressure gauge hole properly",
+  "checklist_name": "Autoclave Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-08 17:04:38.122698",
+  "name": "A white long cylindrical rubber enters into the pressure gauge hole properly"
+ },
+ {
+  "activity_detail": "The heater is working perfectly",
+  "checklist_name": "Autoclave Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-08 17:04:58.920460",
+  "name": "The heater is working perfectly"
+ },
+ {
+  "activity_detail": "Dirt and dust wiped off the outer surface of the analytical balance",
+  "checklist_name": "Analytical Balance Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-08 17:25:52.355150",
+  "name": "Dirt and dust wiped off the outer surface of the analytical balance"
+ },
+ {
+  "activity_detail": "Analytical balance plug clean and in good condition",
+  "checklist_name": "Analytical Balance Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-08 17:26:17.596573",
+  "name": "Analytical balance plug clean and in good condition"
+ },
+ {
+  "activity_detail": "Power on/off switch working effectively",
+  "checklist_name": "Analytical Balance Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-08 17:26:38.521786",
+  "name": "Power on/off switch working effectively"
+ },
+ {
+  "activity_detail": "Indicator buttons in good working condition",
+  "checklist_name": "Analytical Balance Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-08 17:27:00.352619",
+  "name": "Indicator buttons in good working condition"
+ },
+ {
+  "activity_detail": "LCD display screen clean and displaying perfectly",
+  "checklist_name": "Analytical Balance Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-08 17:27:23.306479",
+  "name": "LCD display screen clean and displaying perfectly"
+ },
+ {
+  "activity_detail": "Glass slides clean and free of dirt and dust",
+  "checklist_name": "Analytical Balance Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-08 17:27:50.705465",
+  "name": "Glass slides clean and free of dirt and dust"
+ },
+ {
+  "activity_detail": "Glass slides clean and working effectively",
+  "checklist_name": "Analytical Balance Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-08 17:28:12.764064",
+  "name": "Glass slides clean and working effectively"
+ },
+ {
+  "activity_detail": "Calibration tag pasted and valid",
+  "checklist_name": "Analytical Balance Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-08 17:28:31.270203",
+  "name": "Calibration tag pasted and valid"
+ },
+ {
+  "activity_detail": "Leveling bubble is at the center",
+  "checklist_name": "Analytical Balance Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-08 17:28:52.124100",
+  "name": "Leveling bubble is at the center"
+ },
+ {
+  "activity_detail": "Dirt and dust wiped off the outer surface of the spectrophotometer",
+  "checklist_name": "Spectrophotometer Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 10:06:16.368217",
+  "name": "Dirt and dust wiped off the outer surface of the spectrophotometer"
+ },
+ {
+  "activity_detail": "Spectrophotometer plug clean and in good condition",
+  "checklist_name": "Spectrophotometer Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 10:06:47.292182",
+  "name": "Spectrophotometer plug clean and in good condition"
+ },
+ {
+  "activity_detail": "Spectrophotometer LCD display screen clean and displaying perfectly",
+  "checklist_name": "Spectrophotometer Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 10:07:29.638077",
+  "name": "Spectrophotometer LCD display screen clean and displaying perfectly"
+ },
+ {
+  "activity_detail": "Spectrophotometer power on/off switch working effectively",
+  "checklist_name": "Spectrophotometer Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 10:07:54.170495",
+  "name": "Spectrophotometer power on/off switch working effectively"
+ },
+ {
+  "activity_detail": "Spectrophotometer Indicator buttons in good working condition",
+  "checklist_name": "Spectrophotometer Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 10:08:17.015013",
+  "name": "Spectrophotometer Indicator buttons in good working condition"
+ },
+ {
+  "activity_detail": "Cuvette is not cracked or broken",
+  "checklist_name": "Spectrophotometer Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 10:08:33.878913",
+  "name": "Cuvette is not cracked or broken"
+ },
+ {
+  "activity_detail": "Adjustment knob for wavelength is in good perfect condition",
+  "checklist_name": "Spectrophotometer Checklist",
+  "docstatus": 0,
+  "doctype": "Activity",
+  "modified": "2024-01-09 10:08:48.235756",
+  "name": "Adjustment knob for wavelength is in good perfect condition"
+ }
+]
