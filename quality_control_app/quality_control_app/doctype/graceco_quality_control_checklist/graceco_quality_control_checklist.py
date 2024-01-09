@@ -5,5 +5,5 @@
 from frappe.model.document import Document
 
 
-class QualityControlChecklist(Document):
+class GracecoQualityControlChecklist(Document):
 	pass

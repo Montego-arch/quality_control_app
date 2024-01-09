@@ -5,5 +5,5 @@
 from frappe.model.document import Document
 
 
-class QCActivityDetail(Document):
+class ChecklistForm(Document):
 	pass

@@ -1,7 +1,7 @@
 // Copyright (c) 2024, Montego-arch and contributors
 // For license information, please see license.txt
 
-// frappe.ui.form.on("QC Activity Detail", {
+// frappe.ui.form.on("Checklist", {
 // 	refresh(frm) {
 
 // 	},

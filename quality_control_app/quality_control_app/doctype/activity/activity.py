@@ -5,5 +5,5 @@
 from frappe.model.document import Document
 
 
-class QualityControlActivity(Document):
+class Activity(Document):
 	pass

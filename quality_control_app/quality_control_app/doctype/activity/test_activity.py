@@ -5,5 +5,5 @@
 from frappe.tests.utils import FrappeTestCase
 
 
-class TestQualityControlChecklist(FrappeTestCase):
+class TestActivity(FrappeTestCase):
 	pass

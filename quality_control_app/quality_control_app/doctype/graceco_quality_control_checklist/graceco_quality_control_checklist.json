@@ -2,67 +2,57 @@
  "actions": [],
  "allow_rename": 1,
  "autoname": "format:GLC/QC/FM/{###}",
- "creation": "2024-01-03 16:12:58.410248",
+ "creation": "2024-01-08 16:47:28.753892",
  "doctype": "DocType",
  "engine": "InnoDB",
  "field_order": [
-  "name1",
+  "checklist",
   "date",
   "checklist_frequency",
-  "section_break_sute",
-  "activities",
-  "section_break_croz",
-  "quality_control_manager"
+  "activity_section",
+  "activities"
  ],
  "fields": [
   {
-   "fieldname": "name1",
-   "fieldtype": "Data",
-   "in_list_view": 1,
-   "in_standard_filter": 1,
-   "label": "Name"
-  },
-  {
    "fieldname": "date",
    "fieldtype": "Date",
-   "in_list_view": 1,
-   "in_standard_filter": 1,
-   "label": "Date"
+   "label": "Date",
+   "reqd": 1
   },
   {
    "fieldname": "checklist_frequency",
    "fieldtype": "Select",
    "label": "Checklist Frequency",
-   "options": "\nDaily\nWeekly\nMonthly"
+   "options": "\nDaily\nWeekly",
+   "reqd": 1
   },
   {
-   "collapsible": 1,
-   "fieldname": "section_break_sute",
+   "fieldname": "activity_section",
    "fieldtype": "Section Break",
    "label": "Activity"
+  },
+  {
+   "fieldname": "checklist",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "in_standard_filter": 1,
+   "label": "Checklist Name",
+   "options": "Checklist",
+   "reqd": 1
   },
   {
    "fieldname": "activities",
    "fieldtype": "Table",
    "label": "Activities",
-   "options": "Quality Control Activity"
-  },
-  {
-   "fieldname": "section_break_croz",
-   "fieldtype": "Section Break"
-  },
-  {
-   "fieldname": "quality_control_manager",
-   "fieldtype": "Signature",
-   "label": "Quality Control Manager"
+   "options": "Checklist Form"
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2024-01-05 14:00:13.107068",
+ "modified": "2024-01-09 09:17:50.170376",
  "modified_by": "Administrator",
  "module": "Quality Control App",
- "name": "Quality Control Checklist",
+ "name": "Graceco Quality Control Checklist",
  "naming_rule": "Expression (old style)",
  "owner": "Administrator",
  "permissions": [
@@ -83,5 +73,5 @@
  "sort_order": "DESC",
  "states": [],
  "track_changes": 1,
- "track_views": 1
+ "track_seen": 1
 }

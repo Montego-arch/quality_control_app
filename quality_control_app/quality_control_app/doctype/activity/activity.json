@@ -1,40 +1,34 @@
 {
  "actions": [],
  "allow_rename": 1,
- "autoname": "field:activity",
- "creation": "2024-01-03 16:25:29.966906",
+ "autoname": "field:activity_detail",
+ "creation": "2024-01-08 16:40:43.921586",
  "doctype": "DocType",
  "engine": "InnoDB",
  "field_order": [
-  "activity",
-  "yesno",
-  "corrective_action"
+  "checklist_name",
+  "activity_detail"
  ],
  "fields": [
   {
-   "fieldname": "yesno",
-   "fieldtype": "Select",
-   "label": "Yes/No",
-   "options": "\nYes\nNo"
+   "fieldname": "checklist_name",
+   "fieldtype": "Link",
+   "label": "Checklist Name",
+   "options": "Checklist"
   },
   {
-   "fieldname": "corrective_action",
-   "fieldtype": "Long Text",
-   "label": "Corrective Action"
-  },
-  {
-   "fieldname": "activity",
+   "fieldname": "activity_detail",
    "fieldtype": "Data",
-   "label": "Activity",
+   "label": "Activity Detail",
    "unique": 1
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2024-01-05 12:28:05.727708",
+ "modified": "2024-01-08 17:24:37.256321",
  "modified_by": "Administrator",
  "module": "Quality Control App",
- "name": "QC Activity Detail",
+ "name": "Activity",
  "naming_rule": "Expression (old style)",
  "owner": "Administrator",
  "permissions": [
@@ -54,5 +48,6 @@
  "sort_field": "modified",
  "sort_order": "DESC",
  "states": [],
- "track_changes": 1
+ "track_changes": 1,
+ "track_seen": 1
 }
