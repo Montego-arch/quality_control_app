@@ -10,7 +10,8 @@
   "date",
   "checklist_frequency",
   "activity_section",
-  "activities"
+  "activities",
+  "amended_from"
  ],
  "fields": [
   {
@@ -45,11 +46,22 @@
    "fieldtype": "Table",
    "label": "Activities",
    "options": "Checklist Form"
+  },
+  {
+   "fieldname": "amended_from",
+   "fieldtype": "Link",
+   "label": "Amended From",
+   "no_copy": 1,
+   "options": "Graceco Quality Control Checklist",
+   "print_hide": 1,
+   "read_only": 1,
+   "search_index": 1
   }
  ],
  "index_web_pages_for_search": 1,
+ "is_submittable": 1,
  "links": [],
- "modified": "2024-01-09 09:17:50.170376",
+ "modified": "2024-01-10 10:43:31.598631",
  "modified_by": "Administrator",
  "module": "Quality Control App",
  "name": "Graceco Quality Control Checklist",
